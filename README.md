@@ -1,4 +1,4 @@
-`neowrapped.nvim`
+# neowrapped.nvim
 
 A completely useless plugin that wraps up your **entire Neovim** experience into meaningless stats. It tracksnothing important, offers no actual insights, and will never improve your workflow—**but it looks really cool**.
 
